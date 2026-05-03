@@ -1,0 +1,11 @@
+{
+  "background": "ki.png",
+  "mode": "image",
+  "icons": [
+    "Icon/setting.png",
+    "Icon/audio.png",
+    "Icon/menu.png",
+    "Icon/info.png",
+    "Icon/home.png"
+  ]
+}
